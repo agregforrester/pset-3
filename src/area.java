@@ -7,7 +7,6 @@ import java.util.Scanner;
                     System.out.println("Height : ");
                     double height = in.nextDouble();
                     in.nextLine();
-
                     System.out.println("Width : ");
                     double width = in.nextDouble();
 
