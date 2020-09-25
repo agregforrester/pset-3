@@ -14,7 +14,7 @@ import java.util.Scanner;
                     double perimeter = (2 * height * 2.54) + (2 * width * 2.54);
 
                     System.out.println(" ");
-                    System.out.printf("%,.2f", perimeter); System.out.println(" square centimeters");
+                    System.out.printf("%,.2f", perimeter); System.out.println(" square centimeters.");
                     in.close();
              }
         }

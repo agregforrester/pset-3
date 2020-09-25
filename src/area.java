@@ -14,7 +14,7 @@ import java.util.Scanner;
                     double area = ((height *25.4) * (width * 25.4));
                     
                     System.out.println(" ");
-                    System.out.printf("%,.2f", area); System.out.println(" square millimeters");
+                    System.out.printf("%,.2f", area); System.out.println(" square millimeters.");
                     in.close();
                 }
         }
